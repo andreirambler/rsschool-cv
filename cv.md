@@ -2,6 +2,7 @@
 2. Contact: skype: live:andreyb622
 3. I want to become quality full-stack developer. I have already have some experience with Node.js(Express.js, Nest.js), Reach and Vue. I plan to learn other languages, for example python
 4. Hard skills: JavaScript, HTML, CSS
+
 5.
  ```
 String.prototype.toJadenCase = function () {
